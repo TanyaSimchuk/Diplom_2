@@ -1,0 +1,1 @@
+Добавлены автотесты проверки работы API сайта https://stellarburgers.nomoreparties.site/
